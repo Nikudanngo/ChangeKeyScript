@@ -80,5 +80,5 @@ F13 & t::,	;CapsLokk+Gで。、や,を入力
 *}::send, |
 *+::send, :
 **::send, {"}
-*vkBA::send, '
-+VKF4::Send,{~}    ; Shift + 半角/全角     -> ~
+*VkF4::send, {``} ; 半角/全角 -> `
++VKF4::Send,{~}    ; Shift + 半角/全角     -> ~ 
